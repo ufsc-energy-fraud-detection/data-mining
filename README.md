@@ -1,19 +1,19 @@
-Sistema de detecção de fraude em energia elétrica
+Fraud detection system
 =====================
-Usando o make no linux
+Make for linux
 ===========
 
-Para compilar o projeto:
+Compiling the project:
 
 	make
 
-Para executar:
+To execute:
 
     ./main
 
-Para limpar os arquivos compilados:
+to clean old compiled files:
 
 	make clean
 
-A base de dados usada no projeto é obtida pelo seguinte link:
+Database used to train and validate the ANN:
 	https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
