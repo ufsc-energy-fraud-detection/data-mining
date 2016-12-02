@@ -15,3 +15,5 @@ Para limpar os arquivos compilados:
 
 	make clean
 
+A base de dados usada no projeto é obtida pelo seguinte link:
+	https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
