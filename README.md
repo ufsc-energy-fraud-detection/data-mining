@@ -11,7 +11,7 @@ To execute:
 
     ./main
 
-to clean old compiled files:
+To clean old compiled files:
 
 	make clean
 
